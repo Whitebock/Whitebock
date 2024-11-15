@@ -1,6 +1,6 @@
 ## welcome
  
-I'm Sven, thanks for checking out my page. I love learning new technologies and working with fun, enthusiastic people. I currently remotely work as a PropTech Cloud Developer while living in Heidelberg, Germany. Feel free to send me a message.
+I'm Sven, thanks for checking out my page. I love learning new technologies and working with fun, enthusiastic people. I'm a Cloud Developer from Germany living in Osaka, Japan. Feel free to send me a message.
 
 ### links
 
